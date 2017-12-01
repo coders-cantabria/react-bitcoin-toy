@@ -1,0 +1,6 @@
+{
+  "insertPragma": true,
+  "requirePragma": false,
+  "singleQuote": true,
+  "trailingComma": "es5"
+}

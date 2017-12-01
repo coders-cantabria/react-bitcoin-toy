@@ -1,0 +1,11 @@
+/** @format */
+
+.Ticker {
+  display: flex;
+}
+.Ticker__Transactions {
+  flex: 0 1 auto;
+}
+.Ticker__Transactions__Detail {
+  flex: 0 1 auto;
+}
